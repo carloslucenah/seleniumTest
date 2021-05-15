@@ -13,7 +13,7 @@ This project implements a solution for Wizeline Automation Challenge.
 
 ## How to run the test:
 
-Once all the requirements are satisfied, just execute, in the root folder of the project (where pom.xml is located):
+Once all the requirements are satisfied, just execute, in the folder :
 
 `mvn test "-Dexec.args=YOURBROWSER"`
 
